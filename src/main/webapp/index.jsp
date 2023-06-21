@@ -70,7 +70,7 @@
                         <option>Select the Course</option>
                         <option>Java FullStack</option>
                         <option>UI FullStack</option>
-                        <option>Net FullStack</option>
+                        <option>python FullStack</option>
                         <option>DataScience FullStack</option>
                         <option>Devops</option>
                         <option>AWS</option>
