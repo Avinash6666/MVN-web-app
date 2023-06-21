@@ -23,7 +23,7 @@
             <form action="/albenus" method="POST">
 
                 <p>
-                    <label>Albenus Login Form</label><br>
+                    <label>Login Form</label><br>
 
                     <label>
                         <input type="radio" name="title" value="mr">
